@@ -1,0 +1,26 @@
+{
+  "name": "luciferase",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
+  },
+  "devDependencies": {
+    "@poi/plugin-eslint": "^12.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-import-resolver-webpack": "^0.11.1",
+    "eslint-plugin-html": "^4.0.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-vue": "^6.0.1",
+    "node-sass": "^4.13.0",
+    "phaser": "^3.20.1",
+    "poi": "^12.7.3",
+    "sass-loader": "^8.0.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
