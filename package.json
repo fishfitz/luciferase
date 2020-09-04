@@ -15,7 +15,7 @@
     "eslint-plugin-html": "^4.0.1",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-vue": "^6.0.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "phaser": "^3.20.1",
     "poi": "^12.7.3",
     "sass-loader": "^8.0.0",
